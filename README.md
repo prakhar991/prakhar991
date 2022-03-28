@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prakhar Chaurasia</h1>
+<h1 align="center">Hello fellow Coders 👋🏻, I'm Prakhar Chaurasia</h1>
 <h3 align="center">A passionate tech geek from India</h3>
 
+<p></p>
 
 
 - 🔭 I’m currently working on **Driver Drowsiness Detection System**
@@ -31,5 +32,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar991&show_icons=true&locale=en&layout=compact" alt="prakhar991" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar991&show_icons=true&locale=en" alt="prakhar991" /></p>
