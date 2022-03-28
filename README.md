@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar Chaurasia</h1>
 <h3 align="center">A passionate tech geek from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar991&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar991" /> <a href="https://twitter.com/_iam_prakhar" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_prakhar?logo=twitter&style=for-the-badge" alt="_iam_prakhar" /></a> </p>
+
 
 - 🔭 I’m currently working on **Driver Drowsiness Detection System**
 
@@ -11,9 +11,11 @@
 
 - 📫 How to reach me **prakharchaurasia991@gmail.com**
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar991&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar991" />                 <a href="https://twitter.com/_iam_prakhar" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_prakhar?logo=twitter&style=for-the-badge" alt="_iam_prakhar" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_iam_prakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iam_prakhar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prakhar991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar991" height="30" width="40" /></a>
 <a href="https://fb.com/prakhar.chaurasia991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakhar.chaurasia991" height="30" width="40" /></a>
 <a href="https://instagram.com/_iam_prakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iam_prakhar" height="30" width="40" /></a>
