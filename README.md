@@ -12,7 +12,7 @@
 - 📫 How to reach me **prakharchaurasia991@gmail.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar991&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar991" />                 <a href="https://twitter.com/_iam_prakhar" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_prakhar?logo=twitter&style=for-the-badge" alt="_iam_prakhar" /></a> </p>
+&nbsp;&nbsp;&nbsp;&nbsp; <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar991&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar991" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <a href="https://twitter.com/_iam_prakhar" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_prakhar?logo=twitter&style=for-the-badge" alt="_iam_prakhar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
