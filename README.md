@@ -1,8 +1,10 @@
 <h1 align="center">Hello fellow Coders 👋🏻, I'm Prakhar Chaurasia</h1>
 <h3 align="center">A passionate tech geek from India</h3>
 
-<img src="https://user-images.githubusercontent.com/56834728/162511648-f9231fa0-4a15-40f5-875e-ffe7354f043a.gif" width="320" height="250" align ="right"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/56834728/162511648-f9231fa0-4a15-40f5-875e-ffe7354f043a.gif" width="320" height="250" >
 
+</div>
 
 
 - 🔭 I’m currently working on **Driver Drowsiness Detection System**
@@ -13,8 +15,7 @@
 
 - 📫 How to reach me **prakharchaurasia991@gmail.com**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar991&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar991" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/_iam_prakhar" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_prakhar?logo=twitter&style=for-the-badge" alt="_iam_prakhar" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar991&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar991"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/_iam_prakhar" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_prakhar?logo=twitter&style=for-the-badge" alt="_iam_prakhar" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
