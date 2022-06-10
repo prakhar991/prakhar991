@@ -1,10 +1,7 @@
 <h1 align="center">Hello fellow Coders 👋🏻, I'm Prakhar Chaurasia</h1>
 <h3 align="center">A passionate tech geek from India</h3>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/56834728/162511648-f9231fa0-4a15-40f5-875e-ffe7354f043a.gif" width="320" height="250" >
 
-</div>
 
 
 - 🔭 I’m currently working on **Driver Drowsiness Detection System**
