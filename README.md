@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence/Machine Learning,Deep Learning**
 
-- 💭 Talk to me about **Python,AI/ML,CP**
+- 💭 Talk to me about **Python,AI/ML,Data Analytics**
 
 - 📫 How to reach me **prakharchaurasia991@gmail.com**
 
